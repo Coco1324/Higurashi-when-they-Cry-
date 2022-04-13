@@ -382,4 +382,3 @@ screen text_history:
 
     add "efe/obi.png" alpha 0.5
     add "efe/caption_log.png" xpos 40
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
