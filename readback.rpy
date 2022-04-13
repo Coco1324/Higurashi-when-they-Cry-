@@ -1,5 +1,5 @@
 #Note i used some new files (namely larger scroll and silence voice), you will
-#need to inlcude these files from github before compile the code. These files are
+#need to include these files from github before compile the code. These files are
 #based on my preference, of course, feel free to use them or your own.
 # sound/0_6s-silence.ogg
 # efe/scroll_new.png
